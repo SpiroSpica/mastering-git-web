@@ -6,7 +6,7 @@
 광학 문자 인식(Optical Character Recognition)을 사용하여 영상 내의 문자와 문자의 위치값을 받아 온 후
 번역을 하고 해당 위치에 번역된 내용을 다시 올려주는 프로젝트로 예상하고 있습니다.
 
-###다음과 같은 과정을 통해 이루어질 것이라 생각하고 있습니다.
+### 다음과 같은 과정을 통해 제작하고자 합니다.
 ---
 1. OCR을 통한 문자 내용, 위치 파악
 2. 내용을 translator api를 사용하여 번역
@@ -19,7 +19,7 @@ Using Optical Character Recognition, program collects the data of character and 
 translate, and relocate translated contents at correct position.
 This project intends to translate Video in certain langauge into other language.
 
-###We try to achieve the goal with this procedure
+### We try to achieve the goal with following procedure
 ---
 1. Get contents and location via OCR
 2. Translating contents using translator api
